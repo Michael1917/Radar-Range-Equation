@@ -88,7 +88,7 @@ ylabel("R_{max}");
 
 ### Manual Calculation:
 
-<img width="542" height="780" alt="image" src="https://github.com/user-attachments/assets/f4a16403-41e8-4a04-9dcc-830e9ef5b435" />
+![WhatsApp Image 2025-11-24 at 20 02 13](https://github.com/user-attachments/assets/ea625e48-8277-4c4a-b228-c277ba24eddb)
 
 ---
 
